@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm @br-horus
 
-### Software Developer | Full-Stack | System Architect
+### Full-Stack Developer | System Architect | Laravel & Next.js Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://br-horus.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@br-horus.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/br-horus)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/br-horus)
+Building production-grade systems for real clients across Egypt and the Middle East.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/br-horus/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzazs116@gmail.com)
 
 ---
 
@@ -24,28 +24,38 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [E-Commerce Platform](https://github.com/br-horus/ecommerce-platform)
-A full-featured e-commerce solution built with **Laravel** and **Livewire**. Includes cart management, payment integration, admin dashboard, and real-time inventory tracking.
+> *All repositories are private. Check my [Portfolio](https://github.com/br-horus/portfolio) for screenshots and details.*
 
-### 2. [SaaS Boilerplate](https://github.com/br-horus/saas-boilerplate)
-Production-ready SaaS starter using **Next.js** + **Filament** admin panel. Features multi-tenancy, subscription billing, and role-based access control.
+### 🏥 [Velo Clinic Management](https://github.com/br-horus/velo-clinic-management)
+**Laravel 10 · Livewire 3 · AI · QR Code** — Integrated clinic management system serving 4+ clinics across Egypt & Iraq. Patient management, appointments, billing, inventory, QR attendance, AI analytics.
 
-### 3. [API Gateway Service](https://github.com/br-horus/api-gateway)
-High-performance API gateway built with **PHP** and **Laravel Octane**. Handles rate limiting, authentication, request routing, and logging for microservices architectures.
+### 📊 [F-PLUS PRO ERP](https://github.com/br-horus/f-plus-pro-erp)
+**Laravel 12 · Livewire Volt · Barcode · POS** — Full business ERP with Point of Sale, inventory, HR, loyalty programs, barcode scanning, and PDF/Excel reporting.
 
-### 4. [Real-Time Dashboard](https://github.com/br-horus/realtime-dashboard)
-Interactive analytics dashboard powered by **Livewire** and **MySQL**, with real-time data streaming, charts, and export capabilities.
+### 🚚 [WingExpress Shipping ERP](https://github.com/br-horus/wingexpress-shipping-erp)
+**Laravel 12 · Filament 4 · GPS Tracking** — Shipping management system with 3 portals, real-time courier GPS tracking, OTP delivery proof, and cash settlement.
 
-### 5. [Task Management System](https://github.com/br-horus/task-manager)
-Collaborative project management tool built with **Next.js** and **Tailwind CSS**. Supports kanban boards, time tracking, team collaboration, and notifications.
+### 🎓 [Sharia Sciences Platform](https://github.com/br-horus/sharia-platform-lms)
+**Laravel 13 · Filament 5 · 8 Languages** — Islamic Learning Management System with courses, live streaming, subscriptions, and financial aid. Supporting Arabic, English, Indonesian, Urdu, Persian, Hindi, Turkish, French.
+
+### 🌟 [Smile Hope Academy](https://github.com/br-horus/smile-hope-academy)
+**Laravel 12 · Spatie · Gemini AI** — Special needs therapy center platform with multi-role system, AI-powered parent chat, and comprehensive progress tracking.
+
+### 🦷 [Dr. Mohammad Al-Awes Clinic](https://github.com/br-horus/dr-mohammad-alawes-clinic)
+**Next.js 16 · Prisma · Three.js** — Modern dental clinic website with online booking, before/after gallery, and 3D visuals.
+
+### 🛒 [Moh.Omar Store](https://github.com/br-horus/moh-omar-store)
+**Laravel 12 · DomPDF** — Full e-commerce platform with cart, checkout, coupons, reviews, and order management.
+
+### 🏪 [ZidHap Marketplace](https://github.com/br-horus/zidhap-marketplace)
+**Laravel 8 · Multi-Payment Gateways · PWA** — Multi-vendor marketplace with PayPal, Stripe, Razorpay, and 6+ payment gateways.
 
 ---
 
@@ -53,27 +63,18 @@ Collaborative project management tool built with **Next.js** and **Tailwind CSS*
 
 <div align="center">
 
-![br-horus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br-horus&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=br-horus&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=br-horus&show_icons=true&theme=dark&hide_border=true)](https://github.com/br-horus)
 
-</div>
-
----
-
-## 🌐 Let's Connect
-
-I'm always open to collaborating on interesting projects, discussing new ideas, or helping with open-source contributions. Feel free to reach out!
-
-<div align="center">
-
-**[📧 Email](mailto:contact@br-horus.dev)** &nbsp;•&nbsp; **[🌍 Portfolio](https://br-horus.dev)** &nbsp;•&nbsp; **[💼 LinkedIn](https://linkedin.com/in/br-horus)**
-
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=br-horus&layout=compact&theme=dark&hide_border=true)](https://github.com/br-horus)
 
 ---
 
-<div align="center">
+### 📫 Let's Connect
 
-<sub>⭐️ From [br-horus](https://github.com/br-horus)</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/br-horus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/br-horus/portfolio)
+
+> *Building real systems for real clients. 16 production-grade applications and counting.*
+> *نبني أنظمة حقيقية لعملاء حقيقيين. 16 نظام جاهز للإنتاج ومستمرين.*
 
 </div>
